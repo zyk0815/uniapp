@@ -1,0 +1,1 @@
+<view class="goodsList"><good vue-id="4164573b-1" dataList="{{goodsListData}}" bind:__l="__l"></good></view>

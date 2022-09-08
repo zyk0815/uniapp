@@ -1,0 +1,24 @@
+
+.recommend.data-v-4b4a8bd4 {
+	padding: 20rpx;
+}
+.recommend-item.data-v-4b4a8bd4 {
+	display: flex;
+	flex-direction: column;
+	border-radius: 20rpx;
+	border: 2rpx solid #CCCCCC;
+	margin: 20px 0;
+}
+.item-big.data-v-4b4a8bd4 {
+	width: 100%;
+	height: 300rpx;
+}
+.item-small.data-v-4b4a8bd4 {
+	width: 100%;
+	height: 240rpx;
+}
+.item-image.data-v-4b4a8bd4 {
+	width: 33.33%;
+	height: 240rpx;
+}
+

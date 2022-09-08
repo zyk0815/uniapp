@@ -1,0 +1,14 @@
+{
+  "navigationBarTitleText": "主页",
+  "navigationBarBackgroundColor": "#FFFFFF",
+  "usingComponents": {
+    "index-swpier": "/components/index/indexSwiper",
+    "recommend": "/components/index/recommend",
+    "banner": "/components/index/banner",
+    "icons": "/components/index/icons",
+    "hot": "/components/index/hot",
+    "shop": "/components/index/shop",
+    "card": "/components/common/card",
+    "goods-list": "/components/common/goodsList"
+  }
+}
